@@ -1,3 +1,1 @@
-# GSoC2020_Proposal
-
-My proposal for the project 'Accelerate Synthetic Spectra Calculations using CUDA' for GSoC 2020 under the Organization OpenAstronomy and sub-org RADIS.
+My proposal for the project 'Accelerate Synthetic Spectra Calculations using CUDA' for GSoC 2020 under the organization [OpenAstronomy](https://openastronomy.org/) and sub-org [RADIS](https://github.com/radis/radis).
